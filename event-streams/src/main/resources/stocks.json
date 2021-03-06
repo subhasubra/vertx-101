@@ -1,0 +1,42 @@
+[
+  {
+    "name" : "Bharti Airtel",
+    "Description" : "Bharti Airtel, A Telecom ISP"
+  },
+  {
+    "name" : "BPCL",
+    "Description" : "Bharat Petroleum Corp Ltd."
+  },
+  {
+    "name" : "GAIL",
+    "Description" : "GAIL"
+  },
+  {
+    "name" : "Asian Paints",
+    "Description" : "Asian Paints"
+  },
+  {
+    "name" : "Reliance",
+    "Description" : "Reliance Group of Companies"
+  },
+  {
+    "name" : "Cipla",
+    "Description" : "Cipla Pharma"
+  },
+  {
+    "name" : "Britannia",
+    "Description" : "Britannia group of companies"
+  },
+  {
+    "name" : "SBI",
+    "Description" : "State Bank of India"
+  },
+  {
+    "name" : "HUL",
+    "Description" : "Hindustan Unilever Ltd."
+  },
+  {
+    "name" : "ITC",
+    "Description" : "Indian Tobacco Company"
+  }
+]
